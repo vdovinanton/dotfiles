@@ -4,20 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "336a8629b7494f83",
+        "id": "60fb7e503790224d",
         "type": "tabs",
         "children": [
           {
-            "id": "83cd0b2e3a7871c6",
+            "id": "0392625d5aee8df1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/2026-02-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-02-17"
+            }
+          },
+          {
+            "id": "490ff50799b639a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 Ares/Independence/Hardware Independence/Push file to dotfiles.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Push file to dotfiles"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,11 +70,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Log time ",
+                "query": "dotfiles",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -74,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 404.5,
+    "collapsed": true
   },
   "right": {
     "id": "23ef9810b919802b",
@@ -90,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Projects/Apollo/Vision/Stage 4 details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stage 4 details"
+              "title": "Backlinks"
             }
           },
           {
@@ -151,66 +172,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": true,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "83cd0b2e3a7871c6",
+  "active": "490ff50799b639a5",
   "lastOpenFiles": [
-    "0 Inbox/2025-03-26.md",
-    "templates/Default template.md",
-    "0 Inbox/Untitled.md",
-    "0 Inbox/2025-03-25.md",
-    "1 Projects/Techtellent/1 Tasks/Log time.md",
-    "0 Inbox/SP-1504.md",
-    "0 Inbox/Bikes orientation.md",
-    "1 Projects/Techtellent/6 Observability/OpenSearch db query explore.md",
-    "0 Inbox/PROD ISSUE DynamicSegments.md",
-    "1 Projects/Techtellent/0 Meetings/daily/2025-03-10.md",
-    "1 Projects/Techtellent/0 Meetings/daily/2025-03-18.md",
-    "1 Projects/Techtellent/0 Meetings/daily/2025-03-12.md",
-    "1 Projects/Techtellent/1 Tasks/SP-1534.md",
-    "1 Projects/Techtellent/0 Project Structure explanation.md",
-    "1 Projects/Index Fund Investments/0 Project Structure explanation.md",
-    "1 Projects/Index Fund Investments/8 Personal Reflections",
-    "1 Projects/Index Fund Investments/7 Tools & Resources",
-    "1 Projects/Index Fund Investments/6 Regulations & Taxes",
-    "1 Projects/Index Fund Investments/5 Historical Data",
-    "1 Projects/Index Fund Investments/4 Brokers & Accounts",
-    "1 Projects/Index Fund Investments/Untitled.md",
-    "1 Projects/Index Fund Investments/3 Portfolio Tracking",
-    "1 Projects/Index Fund Investments/2 Investment Strategy",
-    "1 Projects/Index Fund Investments/1 Market Research",
-    "1 Projects/Index Fund Investments/0 Learning",
-    "1 Projects/Index Fund Investments",
-    "1 Projects/Techtellent/0 Meetings/daily/2024/2024-07-31.md",
+    "0 Inbox/2026-02-17.md",
+    "2 Ares/Independence/Hardware Independence/Push file to dotfiles.md",
+    "0 Inbox/2026-02-16.md",
+    "0 Inbox/2026-02-13.md",
+    "1 Projects/Techtellent/0 Meetings/daily/2025/2025-07-31.md",
+    "0 Inbox/2026-02-14.md",
+    "0 Inbox/Run and Configure Betby AQA locally.md",
+    "3 Resources/Commands/Launch services locally over the CMD.md",
+    "4 Archived/Yuliia Vyshynska Letter.md",
+    "2 Ares/Self Improvements/Profession/Docker notes.md",
+    "4 Archived/docker dotnet env.md",
+    "1 Projects/Techtellent/3 Projects/Swapping out DataBet for BetBy.md",
+    "1 Projects/Apollo/Vision/Stage 6 details.md",
+    "1 Projects/Techtellent/2 Development/Kafka integration testing.md",
+    "4 Archived/Project seeking/Hard/M-KOPA assessment presentation.md",
+    "4 Archived/Project seeking/Hard/N-ix prep.md",
+    "1 Projects/Techtellent/1 Tasks/SP-1345.md",
+    "1 Projects/Techtellent/1 Tasks/SP-1196.md",
     "1 Projects/Techtellent/1 Tasks/SP-1070.md",
-    "1 Projects/Techtellent/7 DevOps & Infra/Kafka notes.md",
-    "1 Projects/Techtellent/5 Retrospectives/Veronika Mylotska WTF.md",
-    "1 Projects/Techtellent/5 Retrospectives/Trial period review.md",
-    "1 Projects/Techtellent/5 Retrospectives/Pavlo Demianenko WTF.md",
-    "1 Projects/Techtellent/4 Knowledge Base/Platfrom session.md",
-    "1 Projects/Techtellent/4 Knowledge Base/Platfrom SQL migrations flow.md",
-    "1 Projects/Techtellent/4 Knowledge Base/OddStatus.md",
-    "1 Projects/Techtellent/4 Knowledge Base/Merge Request flow.md",
-    "4 Archived/Attachments/Pasted image 20250312135658.png",
-    "4 Archived/Attachments/Pasted image 20250312135455.png",
-    "4 Archived/Attachments/Pasted image 20250312135359.png",
-    "4 Archived/Attachments/Pasted image 20250312135154.png",
-    "4 Archived/Attachments/Pasted image 20250312134917.png",
-    "4 Archived/Attachments/Pasted Image 20250227140551_453.png",
+    "1 Projects/Techtellent/1 Tasks/SP-1069.md",
+    "0 Inbox/Resume update.md",
+    "4 Archived/Attachments/SP-1689 - Implement Bet-Win in ProductGatewayInternal 2025-09-12 11.57.32.excalidraw.md",
+    "1 Projects/Techtellent/1 Tasks/SP-1672.md",
+    "1 Projects/Techtellent/1 Tasks/SP-1570 Configure BetBy on DEV env.md",
+    "1 Projects/Techtellent/4 Knowledge Base/Release activities.md",
+    "1 Projects/Techtellent/0 Meetings/daily/2024/2024-07-02.md",
+    "3 Resources/Leadership",
+    "4 Archived/Attachments/e3579e9a0556478b9e9a5bc929c63baf74a4d38e.pdf",
+    "4 Archived/Attachments/LUKASZ PRASOL.pdf",
+    "4 Archived/Attachments/Pasted image 20260127005426.png",
+    "1 Projects/eOselia/Untitled",
+    "3 Resources/Confluence",
+    "3 Resources/Templates/Commands",
+    "3 Resources/References",
+    "3 Resources/Templates",
+    "3 Resources/Snippets",
+    "3 Resources/Configs",
+    "4 Archived/Attachments/Pasted image 20251207145123.png",
+    "4 Archived/Attachments/Pasted image 20251011011519.png",
+    "4 Archived/Attachments/Pasted image 20250724124201.png",
+    "4 Archived/Attachments/Pasted image 20250604181836.png",
     "4 Archived/Attachments/Pasted image 20250123173855.png",
-    "4 Archived/Attachments/Pasted Image 20250113190748_838.png",
-    "4 Archived/Attachments/Pasted Image 20241219162601_224.png",
-    "4 Archived/Attachments/Pasted Image 20241218164001_255.png",
+    "4 Archived/Attachments/Pasted image 20240922185928.png",
+    "4 Archived/Attachments/Pasted image 20240905154119.png",
+    "4 Archived/Attachments/Pasted Image 20240908185228_581.png",
+    "4 Archived/Attachments/Pasted image 20240626155839.png",
     "Untitled.canvas"
   ]
 }

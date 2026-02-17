@@ -3,5 +3,5 @@
   "deleteOnComplete": false,
   "removeEmptyTodos": false,
   "rolloverChildren": false,
-  "rolloverOnFileCreate": true
+  "rolloverOnFileCreate": false
 }

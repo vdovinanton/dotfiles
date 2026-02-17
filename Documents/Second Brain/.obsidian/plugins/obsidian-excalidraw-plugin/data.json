@@ -1,4 +1,5 @@
 {
+  "disableDoubleClickTextEditing": false,
   "folder": "Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
@@ -21,7 +22,9 @@
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
+  "cropSuffix": "",
   "cropPrefix": "cropped_",
+  "annotateSuffix": "",
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
   "previewImageType": "SVGIMG",
@@ -44,6 +47,7 @@
   "penModeDoubleTapEraser": true,
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
+  "panWithRightMouseButton": false,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
@@ -52,6 +56,9 @@
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": true,
   "zoomToFitMaxLevel": 2,
+  "zoomStep": 0.05,
+  "zoomMin": 0.1,
+  "zoomMax": 30,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
   "parseTODO": false,
@@ -100,7 +107,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.8.3",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.15.3",
     "libraryItems": [
       {
         "id": "389_hOmwxS1Hk6ZaXdFR3",
@@ -381,7 +388,8 @@
                 0
               ]
             ],
-            "index": "a4"
+            "index": "a4",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -533,7 +541,8 @@
                 0
               ]
             ],
-            "index": "a8"
+            "index": "a8",
+            "polygon": false
           },
           {
             "type": "text",
@@ -1424,7 +1433,8 @@
                 3.1799824922571727
               ]
             ],
-            "index": "aV"
+            "index": "aV",
+            "polygon": false
           },
           {
             "type": "arrow",
@@ -3618,7 +3628,8 @@
                 0
               ]
             ],
-            "index": "ak"
+            "index": "ak",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -3769,7 +3780,8 @@
                 0
               ]
             ],
-            "index": "am"
+            "index": "am",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -3920,7 +3932,8 @@
                 0
               ]
             ],
-            "index": "ao"
+            "index": "ao",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -4440,7 +4453,8 @@
                 0
               ]
             ],
-            "index": "a3"
+            "index": "a3",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -4692,7 +4706,8 @@
                 0
               ]
             ],
-            "index": "a8"
+            "index": "a8",
+            "polygon": false
           },
           {
             "type": "line",
@@ -4740,7 +4755,8 @@
                 0
               ]
             ],
-            "index": "a9"
+            "index": "a9",
+            "polygon": false
           },
           {
             "type": "line",
@@ -4812,7 +4828,8 @@
                 -0.2624833392234258
               ]
             ],
-            "index": "aA"
+            "index": "aA",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -4911,7 +4928,8 @@
                 0.2709794602754383
               ]
             ],
-            "index": "aC"
+            "index": "aC",
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -5615,7 +5633,8 @@
                 3.1799824922571727
               ]
             ],
-            "index": "aV"
+            "index": "aV",
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -7556,7 +7575,8 @@
                 0
               ]
             ],
-            "index": "aU"
+            "index": "aU",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -7709,7 +7729,8 @@
                 0
               ]
             ],
-            "index": "aW"
+            "index": "aW",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -7862,7 +7883,8 @@
                 0
               ]
             ],
-            "index": "aY"
+            "index": "aY",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -8276,7 +8298,8 @@
                 0
               ]
             ],
-            "index": "a5"
+            "index": "a5",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -8427,7 +8450,8 @@
                 0
               ]
             ],
-            "index": "a7"
+            "index": "a7",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -8578,7 +8602,8 @@
                 0
               ]
             ],
-            "index": "a9"
+            "index": "a9",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -9660,7 +9685,8 @@
                 0
               ]
             ],
-            "index": "aK"
+            "index": "aK",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -9811,7 +9837,8 @@
                 0
               ]
             ],
-            "index": "aM"
+            "index": "aM",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -9962,7 +9989,8 @@
                 0
               ]
             ],
-            "index": "aO"
+            "index": "aO",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -10937,7 +10965,8 @@
                 0
               ]
             ],
-            "index": "aT"
+            "index": "aT",
+            "polygon": false
           },
           {
             "type": "line",
@@ -11140,7 +11169,8 @@
                 0
               ]
             ],
-            "index": "aU"
+            "index": "aU",
+            "polygon": false
           },
           {
             "type": "line",
@@ -11343,7 +11373,8 @@
                 0
               ]
             ],
-            "index": "aV"
+            "index": "aV",
+            "polygon": false
           },
           {
             "type": "line",
@@ -11514,7 +11545,8 @@
                 0
               ]
             ],
-            "index": "aW"
+            "index": "aW",
+            "polygon": false
           },
           {
             "type": "line",
@@ -11705,7 +11737,8 @@
                 0
               ]
             ],
-            "index": "aX"
+            "index": "aX",
+            "polygon": false
           },
           {
             "type": "line",
@@ -11876,7 +11909,8 @@
                 0
               ]
             ],
-            "index": "aY"
+            "index": "aY",
+            "polygon": false
           },
           {
             "type": "line",
@@ -12067,7 +12101,8 @@
                 0
               ]
             ],
-            "index": "aZ"
+            "index": "aZ",
+            "polygon": false
           },
           {
             "type": "text",
@@ -13169,7 +13204,8 @@
                 0
               ]
             ],
-            "index": "aG"
+            "index": "aG",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -13322,7 +13358,8 @@
                 0
               ]
             ],
-            "index": "aI"
+            "index": "aI",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -13475,7 +13512,8 @@
                 0
               ]
             ],
-            "index": "aK"
+            "index": "aK",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -13686,7 +13724,8 @@
                 0
               ]
             ],
-            "index": "a1"
+            "index": "a1",
+            "polygon": false
           },
           {
             "type": "line",
@@ -13759,7 +13798,8 @@
                 0
               ]
             ],
-            "index": "a2"
+            "index": "a2",
+            "polygon": false
           },
           {
             "type": "line",
@@ -13824,7 +13864,8 @@
                 0
               ]
             ],
-            "index": "a3"
+            "index": "a3",
+            "polygon": false
           },
           {
             "type": "line",
@@ -13897,7 +13938,8 @@
                 0
               ]
             ],
-            "index": "a4"
+            "index": "a4",
+            "polygon": false
           },
           {
             "type": "line",
@@ -13962,7 +14004,8 @@
                 0
               ]
             ],
-            "index": "a5"
+            "index": "a5",
+            "polygon": false
           },
           {
             "type": "line",
@@ -14035,7 +14078,8 @@
                 0
               ]
             ],
-            "index": "a6"
+            "index": "a6",
+            "polygon": false
           },
           {
             "type": "line",
@@ -14100,7 +14144,8 @@
                 0
               ]
             ],
-            "index": "a7"
+            "index": "a7",
+            "polygon": false
           },
           {
             "type": "line",
@@ -14173,7 +14218,8 @@
                 0
               ]
             ],
-            "index": "a8"
+            "index": "a8",
+            "polygon": false
           },
           {
             "type": "text",
@@ -14391,7 +14437,8 @@
                 -0.019545320337599037
               ]
             ],
-            "index": "a1"
+            "index": "a1",
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -15050,7 +15097,8 @@
                 0
               ]
             ],
-            "index": "a2"
+            "index": "a2",
+            "polygon": false
           },
           {
             "type": "text",
@@ -15325,7 +15373,8 @@
                 0
               ]
             ],
-            "index": "a3"
+            "index": "a3",
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -15424,7 +15473,8 @@
                 -3.7350079484860075
               ]
             ],
-            "index": "a5"
+            "index": "a5",
+            "polygon": false
           },
           {
             "type": "line",
@@ -15490,7 +15540,8 @@
                 -3.7350079484860075
               ]
             ],
-            "index": "a6"
+            "index": "a6",
+            "polygon": false
           }
         ],
         "id": "iuZ_6K7EwMGSXXV81NDXm",
@@ -15704,7 +15755,8 @@
                 -0.3297004216509265
               ]
             ],
-            "index": "a4"
+            "index": "a4",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -15785,7 +15837,8 @@
                 4.945506324761884
               ]
             ],
-            "index": "a6"
+            "index": "a6",
+            "polygon": false
           }
         ],
         "id": "tFo9OYIShjpGSvTwOAS2f",
@@ -15968,7 +16021,8 @@
                 -0.3297004216509265
               ]
             ],
-            "index": "a3"
+            "index": "a3",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -16049,7 +16103,8 @@
                 4.945506324761884
               ]
             ],
-            "index": "a5"
+            "index": "a5",
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -16193,7 +16248,8 @@
                 0
               ]
             ],
-            "index": "a1"
+            "index": "a1",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -16402,7 +16458,8 @@
                 0
               ]
             ],
-            "index": "a3"
+            "index": "a3",
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -16554,7 +16611,8 @@
                 0
               ]
             ],
-            "index": "a5"
+            "index": "a5",
+            "polygon": false
           },
           {
             "type": "line",
@@ -16674,7 +16732,8 @@
                 0
               ]
             ],
-            "index": "a6"
+            "index": "a6",
+            "polygon": false
           }
         ],
         "id": "2WIQDCyDP0rYd2UMhMFNE",
@@ -17014,7 +17073,8 @@
                 2.2737367544323206e-13
               ]
             ],
-            "index": "a2"
+            "index": "a2",
+            "polygon": false
           },
           {
             "type": "line",
@@ -17061,7 +17121,8 @@
                 2.2737367544323206e-13
               ]
             ],
-            "index": "a3"
+            "index": "a3",
+            "polygon": false
           },
           {
             "type": "line",
@@ -17108,7 +17169,8 @@
                 2.2737367544323206e-13
               ]
             ],
-            "index": "a4"
+            "index": "a4",
+            "polygon": false
           },
           {
             "type": "line",
@@ -17155,7 +17217,8 @@
                 2.2737367544323206e-13
               ]
             ],
-            "index": "a5"
+            "index": "a5",
+            "polygon": false
           }
         ],
         "id": "RK7rWRm_bqsgMR-yyEact",
@@ -17281,7 +17344,8 @@
                 23.925868693893968
               ]
             ],
-            "index": "a2"
+            "index": "a2",
+            "polygon": false
           },
           {
             "type": "line",
@@ -17327,7 +17391,8 @@
                 -29.23224875584021
               ]
             ],
-            "index": "a3"
+            "index": "a3",
+            "polygon": false
           }
         ],
         "id": "yjClh1WmDx5TUhWugAREM",
@@ -17430,8 +17495,9 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "2.8.3",
+  "previousRelease": "2.15.3",
   "showReleaseNotes": true,
+  "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
   "latexPreambleLocation": "preamble.sty",
@@ -17785,6 +17851,7 @@
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
+  "aiEnabled": true,
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4o",
