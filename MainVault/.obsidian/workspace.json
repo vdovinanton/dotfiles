@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "dotfile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,11 +98,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 404.5,
+    "collapsed": true
   },
   "right": {
     "id": "23ef9810b919802b",
@@ -189,11 +191,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7d967ac1ccaaa794",
+  "active": "a0fde11bf2bacad9",
   "lastOpenFiles": [
-    "0 Inbox/2026-02-18.md",
     "0 Inbox/2026-02-19.md",
     "2 Ares/Independence/Hardware Independence/Push file to dotfiles.md",
+    "0 Inbox/2026-02-18.md",
     "2 Ares/Self Improvements/Profession/Bash notes.md",
     "2 Ares/Self Improvements/Profession/Notes/tmux notes.md",
     "3 Resources/Commands/Git Rename Branch.md",
