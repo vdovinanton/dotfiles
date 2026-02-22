@@ -2,8 +2,8 @@
 .DS_Store
 
 # Obsidian
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+.config/.obsidian/workspace.json
+.config/.obsidian/workspace-mobile.json
 
 # Backups
 *.bak
