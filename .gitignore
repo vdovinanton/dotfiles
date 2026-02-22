@@ -1,2 +1,19 @@
-MainVault/.obsidian/workspace.json
+# macOS
 .DS_Store
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Backups
+*.bak
+*_back
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Secrets
+.env
+.env.*
