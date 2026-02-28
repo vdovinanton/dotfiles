@@ -41,5 +41,13 @@
       ],
       "key": "N"
     }
+  ],
+  "templater-obsidian:create-3 Resources/Templates/Default note template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }

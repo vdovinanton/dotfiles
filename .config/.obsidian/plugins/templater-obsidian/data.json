@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "0 Inbox",
-      "template": "3 Resources/Templates/Default template.md"
+      "template": "3 Resources/Templates/Default note template.md"
     }
   ],
   "enable_file_templates": false,
@@ -30,7 +30,7 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "",
-    "templates/Default template.md"
+    "3 Resources/Templates/Default note template.md"
   ],
   "startup_templates": [
     ""
