@@ -1,0 +1,6 @@
+brew "git"
+brew "neovim"
+brew "tmux"
+brew "unzip"
+brew "wget"
+cask "claude-code"
