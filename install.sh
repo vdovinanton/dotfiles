@@ -16,3 +16,5 @@ ln -sf "$DOTFILES/.config/alacritty" "$HOME/.config/alacritty"
 
 ln -sf "$DOTFILES/.alacritty.toml" "$HOME/.alacritty.toml"
 ln -sf "$DOTFILES/.bash_profile" "$HOME/.bash_profile"
+ln -sf "$DOTFILES/.tmux.conf" "$HOME/.tmux.conf"
+
