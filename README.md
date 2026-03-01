@@ -14,3 +14,8 @@ Script creates symlinks from the repo directory to the locations expected by eac
 ```bash
 bash install.sh
 ```
+
+### Update Brewfile 
+```bash
+brew bundle dump --force --file=~/dotfiles/Brewfile
+```
