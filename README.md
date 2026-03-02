@@ -19,3 +19,4 @@ bash install.sh
 ```bash
 brew bundle dump --force --file=~/dotfiles/Brewfile
 ```
+
