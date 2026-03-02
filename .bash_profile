@@ -3,6 +3,7 @@
 eval $(/opt/homebrew/bin/brew shellenv)
 
 export PATH="$PATH:/Users/anton.vdovin/.dotnet/tools"
+export BASH_SILENCE_DEPRECATION_WARNING=1
 
 # alias
 alias gitlog="git log --oneline --graph --decorate --all"
