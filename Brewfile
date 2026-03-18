@@ -1,3 +1,4 @@
+brew "container"
 brew "git"
 brew "neovim"
 brew "tmux"
