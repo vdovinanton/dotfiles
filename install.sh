@@ -12,9 +12,7 @@ echo "Installing packages from Brewfile..."
 brew bundle install --file="$DOTFILES/Brewfile"
 
 # Remove existing dir/link before linking
-rm -rf "$HOME/OwnVault/.obsidian"
 rm -rf "$HOME/.config/alacritty"
-ln -s "$DOTFILES/.config/.obsidian" "$HOME/OwnVault/.obsidian"
 ln -s "$DOTFILES/.config/alacritty" "$HOME/.config/alacritty"
 
 ln -sf "$DOTFILES/.alacritty.toml" "$HOME/.alacritty.toml"
