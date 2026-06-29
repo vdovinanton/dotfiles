@@ -4,6 +4,7 @@ eval $(/opt/homebrew/bin/brew shellenv)
 
 export PATH="$PATH:$HOME/.dotnet/tools"
 export BASH_SILENCE_DEPRECATION_WARNING=1
+export CLAUDE_CODE_MAX_OUTPUT_TOKENS=100000
 
 # alias
 alias gitlog="git log --oneline --graph --decorate --all"
