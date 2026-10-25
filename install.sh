@@ -13,7 +13,9 @@ brew bundle install --file="$DOTFILES/Brewfile"
 
 # Remove existing dir/link before linking
 rm -rf "$HOME/.config/alacritty"
+rm -rf "$HOME/.config/nvim"
 ln -s "$DOTFILES/.config/alacritty" "$HOME/.config/alacritty"
+ln -s "$DOTFILES/.config/nvim" "$HOME/.config/nvim"
 
 ln -sf "$DOTFILES/.alacritty.toml" "$HOME/.alacritty.toml"
 ln -sf "$DOTFILES/.bash_profile" "$HOME/.bash_profile"

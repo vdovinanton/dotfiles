@@ -1,9 +1,10 @@
-brew "container"
 brew "git"
 brew "neovim"
 brew "tmux"
 brew "unzip"
 brew "wget"
+
 cask "alacritty"
 cask "claude-code"
+cask "font-jetbrains-mono-nerd-font"
 cask "obsidian"
